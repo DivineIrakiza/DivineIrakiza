@@ -4,6 +4,7 @@ Hi, I’m Divine Irakiza a third year Computer Science student at Cavendish Univ
  - General programming
  - AI
  - Software Engineering
+- Singing
    ##    SKILLS IN
    - HTML
    - CSS
